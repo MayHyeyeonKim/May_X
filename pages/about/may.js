@@ -1,5 +1,5 @@
 const May = () => {
-    return <div> About May! </div>
+  return <div> About May! </div>;
 };
 
 export default May;

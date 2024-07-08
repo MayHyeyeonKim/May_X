@@ -1,10 +1,10 @@
 import React from 'react'
-
+import AppLayout from '../components/AppLayout'
 const Home = () => {
   return (
-    <div>
+    <AppLayout>
       <h1>Hello, Next!</h1>
-    </div>
+    </AppLayout>
   )
 }
 

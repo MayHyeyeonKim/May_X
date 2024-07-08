@@ -63,3 +63,10 @@ npm init
 ```js
 npm i next //version matters
 ```
+
+### Install eslint
+```js
+npm i eslint-plugin-import -D
+npm install eslint@8 eslint-plugin-import -D
+npm i eslint-plugin-react-hooks -D
+```
